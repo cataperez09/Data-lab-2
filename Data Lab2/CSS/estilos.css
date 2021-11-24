@@ -1,0 +1,11 @@
+body {background-color:cornsilk}
+img{width: 100%;}
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Oswald:wght@500&display=swap');
+
+button {margin-right: 5%; margin-right: 2%; margin-bottom: 5%; width: 100px; background-color: transparent; border: transparent;}
+
+h1 {font-family: 'Oswald', sans-serif; font-size: 600%; margin-bottom: 10rem;}
+
+.col-md-8 {font-family: 'Open Sans', sans-serif;}
+
